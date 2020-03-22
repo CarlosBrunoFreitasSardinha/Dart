@@ -6,8 +6,8 @@ class FormasGeometricas {
   String nome;
   int lado;
 
-  FormasGeometricas(String nome) =>formGeo_nome(nome);
-  
+  FormasGeometricas(String nome) => formGeo_nome;
+
   String get formGeo_nome {
     return nome;
   }

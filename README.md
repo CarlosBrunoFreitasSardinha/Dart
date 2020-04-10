@@ -10,9 +10,3 @@ Exemplos de estruturas lógicas;
 Exemplos de uso de estutruras de repticação;
 
 Funções;
-
-Exemplo de Utilização de Classe.
-
-testes Logicos;
-
-Manipulação de Arquivos
